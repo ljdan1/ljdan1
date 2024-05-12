@@ -1,8 +1,8 @@
 <h1>Hello World👋 i am Daniel</h1>
 <h4>◽💥i am software engineering</h4>
-<h4>◽💨i am learning python and fullstack web development</h4>
-<h4>◽💖i am interesting in AI,cyber security and i love coding.</h4>   
-<h4>◽💫i completed my c++ course in debre berhan university.</h4>
+<h4>◽💨i am learning <code>python</code> and <code>fullstack web development</code>code</h4>
+<h4>◽💖i am interesting in <code>AI,cyber security and i love coding.</code></h4>   
+<h4>◽💫i completed my c++ course in <code>debre berhan university.</code></h4>
 <h4>◽💹i am on a way in building my skill.</h4>
 <h4>◽Wanna 💬?You can find me on <a href=https://t.me/@ljdan1>telegram</a>, on LinkedIn, or email 
   <a href=mailto:“danielfekede1616@gmail.com",Daniel</a>
