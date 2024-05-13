@@ -1,6 +1,6 @@
 <h1>Hello World👋 i am Daniel</h1>
 <h4>◽💥i am <code>Software Engineering</code></h4>
-<h4>◽💨i am learning <code>python</code> and <code>fullstack web development</code></h4>
+<h4>◽💨i am learning <code>python</code>,<code>Database(sql)</code> and <code>fullstack web development</code></h4>
 <h4>◽💖i am interesting in <code>AI</code>,<code>cyber security </code>and i love <code>coding.</code></h4>   
 <h4>◽💫i completed my c++ course in <code>debre berhan university.</code></h4>
 <h4>◽💹i am on a way in building my skill.</h4>
