@@ -41,5 +41,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ljdan1&show_icons=true&theme=tokyonight" />
 </a>
 <a>
-<img src="https://camo.githubusercontent.com/6106714c0617b18e42b0086b246dba4f6d12b7e5d7491b2251fdc8e8fdfa1399/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d66697473756d68656c696e61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="fitsumhelina" data-canonical-src="https://komarev.com/ghpvc/?username=fitsumhelina&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/6106714c0617b18e42b0086b246dba4f6d12b7e5d7491b2251fdc8e8fdfa1399/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d66697473756d68656c696e61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="ljdan1" data-canonical-src="https://komarev.com/ghpvc/?username=ljdan1&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 </a>
