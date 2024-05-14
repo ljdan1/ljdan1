@@ -40,3 +40,6 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ljdan1&show_icons=true&theme=tokyonight" />
 </a>
+<a>
+<img src="/soumyajit4419/soumyajit4419/raw/master/thoughtworks-gif_dribbble.gif" height="290px" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
