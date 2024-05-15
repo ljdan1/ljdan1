@@ -1,5 +1,5 @@
 <h1>Hello World👋 i am Daniel</h1>
-![Profile views](https://komarev.com/ghpvc/?ljdan1=ljdan1)
+<!--![Profile views](https://komarev.com/ghpvc/?ljdan1=ljdan1)-->
 
 <h4>◽💥i am <code>Software Engineering</code></h4>
 <h4>◽💨i am learning <code>python</code>,<code>Database(sql)</code> and <code>fullstack web development</code></h4>
