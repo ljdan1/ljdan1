@@ -8,7 +8,7 @@
 <h4>◽💹i am on a way in building my skill.</h4>
 <h4>◽Wanna 💬?You can find me on <a href=https://t.me/@ljdan1>telegram</a>, on LinkedIn, or email 
   <a href=mailto:“danielfekede1616@gmail.com",Daniel</a>
-<img scr="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-2-YX4ZEeEEnwI13r0K.gif">
+<img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-2-YX4ZEeEEnwI13r0K.gif">
 </h4>
 <h2>🛠️ Technologies and Tools I use:</h2>
 <h3><p dir="auto">
