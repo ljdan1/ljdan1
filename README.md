@@ -1,5 +1,5 @@
 <h1>Hello World👋 i am Daniel</h1>
-<!--![Profile views](https://komarev.com/ghpvc/?ljdan1=ljdan1)-->
+
 <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-2-YX4ZEeEEnwI13r0K.gif" height="290px" align="right" style="max-width: 150%; display: inline-block;" data-target="animated-image.originalImage">
 <h4>◽💥i am <code>Software Engineering</code></h4>
 <h4>◽💨i am learning <code>python</code>,<code>Database(sql)</code> and <code>fullstack web development</code></h4>
