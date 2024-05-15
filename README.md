@@ -1,6 +1,6 @@
 <h1>Hello World👋 i am Daniel</h1>
 
-<img src="https://dhboss.com/images/95116-coder.gif" height="390px" align="right" style="max-width: 170%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 160%; display: inline-block;" data-target="animated-image.originalImage">
 <h4>◽💥i am <code>Software Engineering</code>.</h4>
 <h4>◽💨i am learning <code>python</code>,<code>Database(sql)</code> and <code>fullstack web development</code>.</h4>
 <h4>◽💖i am interesting in <code>AI</code>,<code>cyber security </code>and i love <code>coding</code>.</h4>   
