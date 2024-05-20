@@ -1,5 +1,5 @@
 <h1>Hello World👋 i am Daniel</h1>
-![GitHub Views](https://img.shields.io/github/views/ljdan1/{README.md}.svg)
+<img src="https://img.shields.io/github/views/ljdan1/README.md.svg" alt="GitHub Views" />
 
 
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage">
