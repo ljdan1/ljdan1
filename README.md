@@ -1,6 +1,6 @@
 <h1>Hello World👋 i am Daniel</h1>
-![](https://komarev.com/ghpvc/?username=ljdan1
-&color=green)
+![](https://komarev.com/ghpvc/?username=ljdan1&color=green)
+![](https://komarev.com/ghpvc/?username=ljdan1&abbreviated=true)
 
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage">
 <h4>◽💥i am <code>Software Engineering</code>.</h4>
