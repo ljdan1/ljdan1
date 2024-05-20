@@ -1,6 +1,6 @@
-<h1>Hello World👋 i am Daniel</h1>
-![](https://komarev.com/ghpvc/?username=ljdan1&color=green)
-![](https://komarev.com/ghpvc/?username=ljdan1&abbreviated=true)
+<h1>Hello World👋 i am Daniel</h>
+<img src="https://github.com/ljdan1/my-profile-views-counter">
+https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage">
 <h4>◽💥i am <code>Software Engineering</code>.</h4>
