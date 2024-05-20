@@ -1,11 +1,11 @@
 <h1>Hello World👋 i am Daniel</h1>
-<img 
+<!-- <img 
     src="https://camo.githubusercontent.com/646f34ce43006cd4248c427bc8889df1d0fd6089fb1bcccb6208f10fd082e253/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c6a64616e312673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" 
     data-canonical-src="https://komarev.com/ghpvc/?username=ljdan1&amp;style=for-the-badge" 
     style="max-width: 100%;" 
     alt="GitHub Profile Views" />
 
-
+ -->
 
 
 
