@@ -1,7 +1,8 @@
 
- <a href="https://visitcount.com">
-  <img src="https://visitcount.com/api?id=ljdan1&label=Profile%20Views&icon=5&pretty=true" />
+<a href="https://github.com/ljdan1">
+  <img src="https://komarev.com/ghpvc/?username=ljdan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 </a>
+
 
   
   <h1>Hello World👋 i am Daniel</h1>
