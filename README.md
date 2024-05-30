@@ -1,6 +1,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
-<img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
+
 
 
   
