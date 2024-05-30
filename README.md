@@ -1,5 +1,6 @@
 <h1>Hello World👋 i am Daniel</h1>
-
+.h1{
+align-text:center;}
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage"> -->
 <h4>◽💥i am <code>Software Engineer</code>.</h4>
 <h4>◽💨i am learning <code>python</code>,<code>Database(sql)</code> and <code>fullstack web development</code>.</h4>
