@@ -1,7 +1,6 @@
 
-<a href="https://github.com/ljdan1">
-  <img src="https://komarev.com/ghpvc/?username=ljdan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
-</a>
+<img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
+
 
 
   
