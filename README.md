@@ -40,5 +40,5 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ljdan1&show_icons=true&theme=tokyonight" />
 </a>
-<img src="https://media0.giphy.com/media/ko7twHhomhk8E/200.webp?cid=790b76116j8es6my9wm9jwzjgad5r7xw72ug9ltke3xzuvi7&ep=v1_gifs_search&rid=200.webp&ct=g" width="1000" height="100">
+<img src="https://media1.giphy.com/media/5owNSuvkqgLg1iqNrF/200w.webp?cid=ecf05e476wfvy7rdw895a3e6pdsqggq0mf1vidxxyzisedd9&ep=v1_gifs_related&rid=200w.webp&ct=g" width="1000" height="100">
 
