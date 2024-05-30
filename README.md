@@ -14,8 +14,9 @@
 <h4>◽💹i am on a way in building my skill.</h4>
 <h4>◽Wanna 💬?You can find me on <a href=https://t.me/@ljdan1>telegram</a>, on LinkedIn, or email. 
   <a href=mailto:“danielfekede1616@gmail.com",Daniel</a>
+<div style="display: inline-block; border: 1px solid #ddd; border-radius: 5px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); background-color: #fff; max-width: 500px; margin: 0 auto;"><div style="background-color: #007acc; color: #fff; padding: 10px; font-size: 18px; font-weight: bold; text-align: center;">Visual Studio Code</div><div style="padding: 20px; font-size: 16px; line-height: 1.5;"><p>Welcome to my GitHub profile!</p><p>This is a Visual Studio Code-style box for your README.</p></div></div>
 
-<div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); background-color: #fff; max-width: 500px; margin: 0 auto;"><div style="background-color: #007acc; color: #fff; padding: 10px; font-size: 18px; font-weight: bold; text-align: center;">Visual Studio Code</div><div style="padding: 20px; font-size: 16px; line-height: 1.5;"><p>Welcome to my GitHub profile!</p><p>This is a Visual Studio Code-style box for your README.</p></div></div>
+
 
 </h4>
 <h2>🛠️ Technologies and Tools I use:</h2>
