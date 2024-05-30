@@ -1,6 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
 
+<img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views" style="display: block; margin: 0 auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9; width: 100px;">
 
 
   
