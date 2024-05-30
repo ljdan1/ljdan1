@@ -1,4 +1,6 @@
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ljdan1&label=Profile%20Views&icon=5&pretty=true" />
+</a>
   
   
   <h1>Hello World👋 i am Daniel</h1>
