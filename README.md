@@ -1,5 +1,7 @@
 
-  
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ljdan1&label=Profile%20Views&icon=5&pretty=true" />
+</a>
   
   <h1>Hello World👋 i am Daniel</h1>
 
@@ -11,9 +13,8 @@
 <h4>◽💹i am on a way in building my skill.</h4>
 <h4>◽Wanna 💬?You can find me on <a href=https://t.me/@ljdan1>telegram</a>, on LinkedIn, or email. 
   <a href=mailto:“danielfekede1616@gmail.com",Daniel</a>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ljdan1&label=Profile%20Views&icon=5&pretty=true" />
-</a>
+
+
 </h4>
 <h2>🛠️ Technologies and Tools I use:</h2>
 <h3><p dir="auto">
