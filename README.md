@@ -1,4 +1,13 @@
-<h1>Hello World👋 i am Daniel</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+   style{
+    .h1{
+    
+  </head>
+  
+  
+  <h1>Hello World👋 i am Daniel</h1>
 .h1{
 align-text:center;}
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage"> -->
