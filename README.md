@@ -1,7 +1,8 @@
 
-  <a href="https://visitcount">
-  <img src="https://visitcount/api?id=ljdan1&label=Profile%20Views&icon=5&pretty=true" />
+ <a href="https://visitcount.com">
+  <img src="https://visitcount.com/api?id=ljdan1&label=Profile%20Views&icon=5&pretty=true" />
 </a>
+
   
   <h1>Hello World👋 i am Daniel</h1>
 
