@@ -1,7 +1,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
+
 <h1 align="center">Hello World👋 i am Daniel</h1>
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage"> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%#e1418a&center=true&vCenter=true&width=600&lines=bonjour👋,+I+am+DANIEL.;Welcome+to+My+Github+Profile!;+Passionate+Software+Engineer;>
+</p>
 <h4>◽💥i am <code>Software Engineer</code>.</h4>
 <h4>◽💨i am learning <code>python</code>,<code>Database(sql)</code> and <code>fullstack web development</code>.</h4>
 <h4>◽💖i am interesting in <code>AI</code>,<code>cyber security </code>and i love <code>coding</code>.</h4>   
