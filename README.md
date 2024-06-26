@@ -4,7 +4,7 @@
 <h1 align="center">Hello World👋 i am Daniel</h1>
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage"> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23e1418a&center=true&vCenter=true&width=600&lines=bonjour%F0%9F%91%8B%2C+I+am+DANIEL.;Welcome+to+My+Github+Profile!;+Passionate+Software+Engineer;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23e1418a&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+I+am+DANIEL.;Welcome+to+My+Github+Profile!;I+am+Passionate+Software+Engineer;">
 </p>
 
 <h4>◽💥i am <code>Software Engineer</code>.</h4>
