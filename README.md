@@ -1,5 +1,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
 
 <h1 align="center">Hello World👋 i am Daniel</h1>
 <p align="center">
