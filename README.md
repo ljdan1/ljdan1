@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)]
+
 <img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
 <h1 align="center">
   <a target="_blank">
