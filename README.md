@@ -29,7 +29,6 @@
 <hr>
 <div style="display: flex; flex-direction: row; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljdan1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 <!-- <img src="https://media1.giphy.com/media/1FE5mo715G4eiNPSEm/200w.webp?cid=ecf05e47rcy7xv8e8h139s5nhvdkljb7tpsfuqf6vzreqii2&ep=v1_gifs_related&rid=200w.webp&ct=g" width="1000" height="150"> -->
