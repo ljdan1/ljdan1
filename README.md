@@ -4,7 +4,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-<h1 align="center">Hello World👋 i am Daniel</h1>
+<h1 style="text-align: center; color: gold;">Hello World👋 i am Daniel</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23e1418a&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+I+am+DANIEL.;Welcome+to+My+Github+Profile!;I+am+Passionate+Software+Engineer;">
 </p>
