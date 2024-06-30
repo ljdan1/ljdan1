@@ -13,9 +13,9 @@
 
 
 <h4>◽💥i am <code>Software Engineer</code>.</h4>
-<h4>◽💨i am learning <code>python</code>,<code>Database(sql)</code> and <code>fullstack web development</code>.</h4>
+<h4>◽💨i am learning <code>Database(sql)</code> and <code>Mern STACK development</code>.</h4>
 <h4>◽💖i am interesting in <code>AI</code>,<code>cyber security </code>and i love <code>coding</code>.</h4>   
-<h4>◽💫i completed my c++ course in <code>debre berhan university</code>.</h4>
+<h4>◽💫i completed my c++ course and python in <code>debre berhan university</code>.</h4>
 <h4>◽💹i am on a way in building my skill.</h4>
 <h4>◽Wanna 💬?You can find me on elegram</a>, on LinkedIn, or email. 
   <a href=mailto:“danielfekede1616@gmail.com",Daniel</a>
