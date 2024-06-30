@@ -22,7 +22,7 @@
 
 
 </h4>
-<h2>🛠️ Technologies and Tools I use:</h2>
+<h2 align="center">🛠️ Technologies and Tools I use:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
