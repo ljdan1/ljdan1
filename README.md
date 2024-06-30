@@ -32,6 +32,7 @@
 
 <hr>
 <div style="display: flex; flex-direction: row; justify-content: center; background-color: royalblue;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ljdan1&theme=dark&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=radical&hide_border=false" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljdan1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=dark&hide_border=false&no-bg=true&no-frame=true&&langs_count=6"/>
