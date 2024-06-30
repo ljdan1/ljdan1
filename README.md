@@ -32,6 +32,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljdan1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 <a href="https://github.com/ljdan1/github-readme-stats"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=ljdan1&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" alt="daniel's github stats" /></a>
+[![daniel's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=ljdan1&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true)](https://github.com/ljdan1/github-readme-stats)
+
 
 <!-- <img src="https://media1.giphy.com/media/1FE5mo715G4eiNPSEm/200w.webp?cid=ecf05e47rcy7xv8e8h139s5nhvdkljb7tpsfuqf6vzreqii2&ep=v1_gifs_related&rid=200w.webp&ct=g" width="1000" height="150"> -->
 
