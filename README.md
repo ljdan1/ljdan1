@@ -36,7 +36,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=radical&hide_border=false" alt="GitHub Streak" />
       <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=dark&hide_border=false&no-bg=true&no-frame=true&&langs_count=6"/>
 </div>
-
+       <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=dark&hide_border=false&no-bg=true&no-frame=true&&langs_count=6"/>
 <!-- <img src="https://media1.giphy.com/media/1FE5mo715G4eiNPSEm/200w.webp?cid=ecf05e47rcy7xv8e8h139s5nhvdkljb7tpsfuqf6vzreqii2&ep=v1_gifs_related&rid=200w.webp&ct=g" width="1000" height="150"> -->
 
 
