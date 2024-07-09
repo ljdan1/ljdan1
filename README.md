@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=ljdan1" alt="Profile views">
+
 <h1 align="center"><a target="_blank">
 
 <h1 align="center">𝓗𝓔𝓛𝓛𝓞 𝓦𝓞𝓡𝓛𝓓 👋 𝓘 𝓐𝓜 𝓓𝓐𝓝𝓘𝓔𝓛.</h1><p align="center">
