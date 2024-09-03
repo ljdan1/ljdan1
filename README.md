@@ -18,17 +18,55 @@
 
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,css,html,js,figma,firebase,mysql,py,c,cpp,java,md,git,github,postman,vscode&perline=14" /></a>
-</p>
-
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg"    alt="icon" width="65" height="65"  />
+      <br>TypeScript
+    </td>             
+ </tr>
+</table>
+</div>
 <hr>
 
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ljdan1&theme=dark&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=dark&hide_border=false&no-bg=true&no-frame=true&&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ljdan1&theme=white&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=white&hide_border=false&no-bg=true&no-frame=true&&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=white&hide_border=false" alt="GitHub Streak" />
   
 </div>
 
