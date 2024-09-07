@@ -12,7 +12,6 @@
 
 <h4>◽💥i am <code>Software Engineer student in<a href="https://www.dbu.edu.et/"> Debre Berhan University</a></code>.</h4>
 <h4>◽💨i am learning <code>fullstack web& app development.</code>
-<h4>◽💹i am on a way in building my skill.</h4>
 <h4>◽Wanna 💬?You can find me on <a href="https://t.me/ljdan1">Telegram</a>, on <a href="https://www.linkedin.com/in/ljdan1/">LinkedIn</a>, or <a href="mailto:danielfekede1616@gmail.com">email</a>.</h4>
 
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
