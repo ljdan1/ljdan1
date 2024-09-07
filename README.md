@@ -4,17 +4,15 @@
 <h1 align="center">𝓗𝓔𝓛𝓛𝓞 𝓦𝓞𝓡𝓛𝓓 👋 𝓘 𝓐𝓜 𝓓𝓐𝓝𝓘𝓔𝓛.</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23e1418a&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+I+am+DANIEL.;Welcome+to+My+Github+Profile!;I+am+Passionate+Software+Engineer;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2313b6b0&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+I+am+DANIEL.;Welcome+to+My+Github+Profile!;I+am+Passionate+frontend+Software+Engineer;come+and+let's+build+the+impossible.">
 </p>
 
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage">
 
-<h4>◽💥i am <code>Software Engineer student in debre berhan university</code>.</h4>
-<h4>◽💨i am learning <code>Database(sql)</code>,<code>problem solving</code> and <code>Mern STACK development</code>.</h4>
-<h4>◽💖i am interesting in <code>AI</code>,<code>cyber security </code>and i love <code>coding</code>.</h4>
-<h4>◽💫i completed my c++ course and python in <code>debre berhan university</code>.</h4>
+<h4>◽💥i am <code>Software Engineer student in<a href="https://www.dbu.edu.et/"> Debre Berhan University</a></code>.</h4>
+<h4>◽💨i am learning <code>fullstack web& app development.</code>
 <h4>◽💹i am on a way in building my skill.</h4>
-<h4>◽Wanna 💬?You can find me on Telegram</a>, on LinkedIn, or email.</h4>
+<h4>◽Wanna 💬?You can find me on <a href="https://t.me/ljdan1">Telegram</a>, on <a href="https://www.linkedin.com/in/ljdan1/">LinkedIn</a>, or <a href="mailto:danielfekede1616@gmail.com">email</a>.</h4>
 
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
 
