@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%23b710ab&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+Welcome+to+My+Github+Profile!;I+am+Passionate+frontend+Software+Engineer;come+and+let's+build+the+impossible.">    
 
 </p>
+<img src="https://komarev.com/ghpvc/?username=ljdan1&style=flat-square&color=blue" alt=""/>
 
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage">
 
