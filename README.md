@@ -1,69 +1,81 @@
 
-<h1 align="center"><a target="_blank">
-
-<h1 align="center">𝓗𝓔𝓛𝓛𝓞 𝓦𝓞𝓡𝓛𝓓 👋 𝓘 𝓐𝓜 𝓓𝓐𝓝𝓘𝓔𝓛.</h1>
+<h1 align="center">Hey there! 👋 I'm Daniel</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23b710ab&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+Welcome+to+My+Github+Profile!;I+am+Passionate+frontend+Software+Engineer;come+and+let's+build+the+impossible.">    
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=8f43ae&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Fullstack+Learner+%7C+UI%2FUX+Fan;Building+cool+stuff+one+line+at+a+time;Let%27s+connect+and+create+something+awesome+%F0%9F%94%A5" />
 </p>
-<img src="https://komarev.com/ghpvc/?username=ljdan1&style=flat-square&color=blue" alt=""/>
 
-<img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ljdan1&style=flat-square&color=8f43ae" alt="Profile views" />
+</p>
 
-<h4>◽💥i am <code>Software Engineer student in<a href="https://www.dbu.edu.et/"> Debre Berhan University</a></code>.</h4>
-<h4>◽💨i am learning <code>fullstack web& app development.</code>
-<h4>◽🧲i am interested in machine learning,forex trading</h4>
-<h4>◽Wanna 💬?You can find me on <a href="https://t.me/ljdan1">Telegram</a>, on <a href="https://www.linkedin.com/in/ljdan1/">LinkedIn</a>, or <a href="mailto:danielfekede1616@gmail.com">email</a>.</h4>
+---
 
-<h2 align="center">🛠️ Technologies and Tools I use:</h2>
+## 😊 About Me
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-      <br>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg"    alt="icon" width="65" height="65"  />
-      <br>TypeScript
-    </td>             
- </tr>
-</table>
-</div>
-<hr>
+- 🎓 **Software Engineering student** @ [Debre Berhan University](https://www.dbu.edu.et/)
+- 🛠️ Always learning **Fullstack Web & App Development**
+- 🤩 Passionate about **UI/UX, Machine Learning, and Forex Trading**
+- 🌱 Growing every day, open to new ideas and projects!
+- 🧑‍💻 Coding, designing, and collaborating with awesome people
 
-<div>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ljdan1&theme=white&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=white&hide_border=false&no-bg=true&no-frame=true&&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=white&hide_border=false" alt="GitHub Streak" />
-  
+---
+
+## 🎯 What I'm Up To
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="60" alt="Working" />
+  <br>
+  <b>Latest Focus:</b> Building interactive user interfaces and exploring AI/ML!
+  <br>
+  <b>Looking for:</b> Collaboration, mentorship, and fun side projects 🤝
 </div>
 
+---
+
+## 🛠️ Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,git,sass,mysql,figma,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ljdan1&theme=tokyonight&show_icons=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=tokyonight&layout=compact&langs_count=8" height="160"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=tokyonight" alt="GitHub Streak" height="120"/>
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://t.me/ljdan1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ljdan1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:danielfekede1616@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<details>
+  <summary>✨ <b>Fun Facts & Hobbies</b></summary>
+  
+  - 🎵 hip pop Music lover & sing in my free time  
+  - 🎸 ai news and movies  
+  - 💡 Always up for a good meme or a coding challenge!
+</details>
+
+<details>
+  <summary>🚀 <b>Featured Projects</b></summary>
+  
+    
+</details>
+
+---
+
+<p align="center"><b>Thanks for visiting! Have an amazing day 🚀</b></p>
