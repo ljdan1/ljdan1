@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ljdan1&style=flat-square&color=8f43ae" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abii16&style=flat-square&color=8f43ae" alt="Profile views" />
 </p>
 
 ---
@@ -44,10 +44,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljdan1&theme=tokyonight&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljdan1&theme=tokyonight&layout=compact&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abii16&theme=tokyonight&show_icons=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abii16&theme=tokyonight&layout=compact&langs_count=8" height="160"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljdan1&theme=tokyonight" alt="GitHub Streak" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abii16&theme=tokyonight" alt="GitHub Streak" height="120"/>
 </p>
 
 ---
